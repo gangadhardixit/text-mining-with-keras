@@ -1,1 +1,1 @@
-# text-mining-with-keras
+# text-mining-with-python and keras
